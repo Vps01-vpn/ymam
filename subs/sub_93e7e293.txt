@@ -1,0 +1,1 @@
+vless://8a1a1fc0-6148-4918-bb0f-791fe8966764@85.209.229.116:443?security=reality&type=tcp&headerType=&path=&host=&sni=web.telegram.org&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%F0%9F%9A%80%20Marz%20%28Ymam%29%20%5BVLESS%20-%20tcp%5D
