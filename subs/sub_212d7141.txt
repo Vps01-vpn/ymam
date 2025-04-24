@@ -1,0 +1,1 @@
+Error occurred: Invalid URL 'rich': No schema supplied. Perhaps you meant http://rich? 🚨
