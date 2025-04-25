@@ -1,0 +1,2 @@
+vless://ecf0e519-b7bf-4f55-81ed-f0e126d6c653@194.36.209.72:443?security=reality&type=tcp&headerType=&path=&host=&sni=web.telegram.org&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%F0%9F%9A%80%20Marz%20%28shshs%29%20%5BVLESS%20-%20tcp%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpub2pMaWJaVGxPYVR0WUJ1SnFlRlV3@194.36.209.72:1080#%F0%9F%9A%80%20Marz%20%28shshs%29%20%5BShadowsocks%20-%20tcp%5D
