@@ -1,8 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0eVNlTjltU05DWFRoRWVTSl9WQXZR@45.152.115.84:1080#%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0eVNlTjltU05DWFRoRWVTSl9WQXZR@45.154.1.245:1080#%F0%9F%87%A9%F0%9F%87%AA%20Germany%202
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0eVNlTjltU05DWFRoRWVTSl9WQXZR@45.154.1.49:1080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0eVNlTjltU05DWFRoRWVTSl9WQXZR@45.91.193.51:1080#%F0%9F%87%AB%F0%9F%87%AE%20Finland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0eVNlTjltU05DWFRoRWVTSl9WQXZR@45.91.193.51:1080#%F0%9F%87%B9%F0%9F%87%B2%20Turkmenistan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0eVNlTjltU05DWFRoRWVTSl9WQXZR@109.248.162.27:1080#%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0eVNlTjltU05DWFRoRWVTSl9WQXZR@109.248.162.6:1080#%F0%9F%87%A9%F0%9F%87%AA%20Germany%202
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0eVNlTjltU05DWFRoRWVTSl9WQXZR@109.248.162.27:1080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0eVNlTjltU05DWFRoRWVTSl9WQXZR@109.248.162.6:1080#%F0%9F%87%AB%F0%9F%87%AE%20Finland
 vless://04f35381-11c8-4a1f-ad2c-5e9162cdc144@151.101.131.6:443?security=tls&type=xhttp&headerType=&path=%2F&host=Sihi17.tm&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+%221000000%22%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=Sihi17.tm&fp=chrome&alpn=h3&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands
 vless://04f35381-11c8-4a1f-ad2c-5e9162cdc144@93.183.91.7:443?security=tls&type=xhttp&headerType=&path=%2F&host=kako70.serik1605.ru&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+%221000000%22%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=kako70.serik1605.ru&fp=chrome&alpn=h3&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%202
 vless://04f35381-11c8-4a1f-ad2c-5e9162cdc144@185.199.108.44:80?security=none&type=xhttp&headerType=&path=%2F&host=Sihi17.tm&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+%221000000%22%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%202
