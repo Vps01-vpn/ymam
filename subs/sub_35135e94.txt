@@ -1,0 +1,1 @@
+vless://64f8781a-b043-48aa-a582-2542c059f7cc@141.193.213.20:443?security=tls&type=xhttp&headerType=&path=%2F&host=akabeb.payzyyevicxst.ru&sni=akabeb.payzyyevicxst.ru&fp=chrome&alpn=h3&fragment=1-1%2C1-1%2Ctlshello&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%F0%9F%87%A9%F0%9F%87%AA%20German
